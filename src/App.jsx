@@ -4,8 +4,8 @@ function App() {
   return (
     <div className="player">
       <img 
-        src="https://images.unsplash.com/photo-1507525428034-b723cf961d3e?q=80&w=800&auto=format&fit=crop" 
-        alt="Cover" 
+        src="https://img.magnific.com/free-vector/cute-cafe-cat-sticker-set-vector-illustration_56104-3309.jpg?semt=ais_hybrid&w=740&q=80" 
+        alt="Cute Cafe Cat" 
       />
 
       <h2>Music Time</h2>
